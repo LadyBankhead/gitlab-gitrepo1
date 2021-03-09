@@ -1,0 +1,4 @@
+**** Create a RestController which includes the following routes:
+o HTTP GET against “/policies” which returns all policy data as JSON
+o HTTP GET against “/policies/<policy #>” which returns a specific policy as JSON
+o HTTP GET against “/policies/claims/<claim #>” which returns a specific claim as JSON""""
